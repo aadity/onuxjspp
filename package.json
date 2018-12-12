@@ -1,5 +1,5 @@
 {
-  "name": "sd",
+  "name": "jspp",
   "main": "./lib/atomjspp",
   "version": "0.0.1",
   "description": "A short description of your package",
@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atomjspp:toggle"
   },
-  "repository": "https://github.com/govindsaini616/onuxjspp.git",
+  "repository": "https://github.com/aadity/onuxjspp.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
